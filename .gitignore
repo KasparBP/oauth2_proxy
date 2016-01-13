@@ -1,3 +1,5 @@
+.idea/
+
 google_auth_proxy
 oauth2_proxy
 # Go.gitignore
